@@ -1,2 +1,3 @@
 # kernelandcode
-Showcase of some of my own work
+
+Personal blog site
